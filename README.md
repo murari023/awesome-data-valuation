@@ -2,7 +2,7 @@
 A curated list of data valuation papers and related resources
 
 ## Contents
- - [Non-Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#non-deep-learning-based-papers)
+ - [Theoretical based Papers](https://github.com/murari023/awesome-background-subtraction#non-deep-learning-based-papers)
  - [Review/survey papers](https://github.com/murari023/awesome-background-subtraction#reviewsurvey-papers)
  - [Datasets](https://github.com/murari023/awesome-background-subtraction#datasets)
  - [Awesome Researchers](https://github.com/murari023/awesome-background-subtraction#awesome-researchers)
@@ -11,13 +11,13 @@ A curated list of data valuation papers and related resources
 
 ## 2020 Papers
  - [2020 - MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos](https://arxiv.org/abs/2008.01699) (**ACM-MM 2020**)
- - [2020 - MotionRec: Unified Deep Framework for Moving Object Recognition](http://openaccess.thecvf.com/content_WACV_2020/html/Mandal_MotionRec_A_Unified_Deep_Framework_for_Moving_Object_Recognition_WACV_2020_paper.html) (**WACV 2020**) [**Source Code**](https://github.com/lav-kush/MotionRec) 
+ - [20
 
 ## 2019 Papers
 
 
 ## Review/survey Papers
-- [2019 - Background Subtraction in Real Applications: Challenges, Current Models and Future Directions](https://arxiv.org/pdf/1901.03577)
+- (Under Construction)
 
 ## Datasets
 - (Under Construction)
@@ -27,9 +27,8 @@ A curated list of data valuation papers and related resources
 
 ## Awesome Resources
 - [bgslibrary](https://github.com/andrewssobral/bgslibrary)
-- [lrslibrary]( https://github.com/andrewssobral/lrslibrary)
-- [Background Subtraction Website by Thierry BOUWMANS](https://sites.google.com/site/backgroundsubtraction/overview)
-- 
+- (Under Construction)
+
 ## Courses
 - [Background subtraction using deep learning method by [**Yiqi Yan**](https://saoyan.github.io/projects/)](https://github.com/SaoYan/bgsCNN)
 
