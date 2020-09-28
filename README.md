@@ -1,5 +1,5 @@
 # awesome-data-valuation
-A curated list of data valuation papers and related resources
+A curated list of data valuation papers and related resources (Under Construction)
 
 ## Contents
  - [Theoretical based Papers](https://github.com/murari023/awesome-background-subtraction#non-deep-learning-based-papers)
@@ -11,7 +11,6 @@ A curated list of data valuation papers and related resources
 
 ## 2020 Papers
  - [2020 - MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos](https://arxiv.org/abs/2008.01699) (**ACM-MM 2020**)
- - [20
 
 ## 2019 Papers
 
@@ -26,11 +25,10 @@ A curated list of data valuation papers and related resources
 - (Under Construction)
 
 ## Awesome Resources
-- [bgslibrary](https://github.com/andrewssobral/bgslibrary)
 - (Under Construction)
 
 ## Courses
-- [Background subtraction using deep learning method by [**Yiqi Yan**](https://saoyan.github.io/projects/)](https://github.com/SaoYan/bgsCNN)
+- (Under Construction)
 
 ## Contributions are always welcomed!
 If you have any suggestions (missing papers, projects, source code, new papers, key researchers, dataset, etc.), please feel free to edit and pull a request. (or just let me know the title of paper)
