@@ -10,11 +10,15 @@ A curated list of data valuation papers and related resources (Under Constructio
 
 ## 2020 Papers
 - [A Distributional Framework for Data Valuation](https://arxiv.org/abs/2002.12334)
+- [Absolute Shapley Value](https://arxiv.org/abs/2003.10076)
 
 ## 2019 Papers
 - [Data Shapley Equitable Valuation of Data for Machine Learning](http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf), [**Source Code**](https://github.com/amiratag/DataShapley)
 - [Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms](https://arxiv.org/abs/1908.08619), [**Source Code**](https://github.com/murari023/KNN-PVLDB)
 - [Towards Efficient Data Valuation Based on the Shapley Value](https://arxiv.org/abs/1902.10275)
+
+## 2010-2015
+- [A Theory of Pricing Private Data](https://arxiv.org/abs/1208.5258)
 
 ## Review/survey Papers
 - (Under Construction)
