@@ -12,7 +12,7 @@ A curated list of data valuation papers and related resources (Under Constructio
 - [A Distributional Framework for Data Valuation](https://arxiv.org/abs/2002.12334)
 
 ## 2019 Papers
-- [Data Shapley Equitable Valuation of Data for Machine Learning](http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf)[**Source Code**](https://github.com/amiratag/DataShapley)
+- [Data Shapley Equitable Valuation of Data for Machine Learning](http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf), [**Source Code**](https://github.com/amiratag/DataShapley)
 - [Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms](https://arxiv.org/abs/1908.08619)
 - [Towards Efficient Data Valuation Based on the Shapley Value](https://arxiv.org/abs/1902.10275)
 
