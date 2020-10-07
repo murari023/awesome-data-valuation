@@ -23,9 +23,14 @@ A curated list of data valuation papers and related resources (Under Constructio
 
 ## Awesome Researchers
 - [Jinfei Liu](http://www.mathcs.emory.edu/~jliu253/)
+- [Ruoxi Jia](https://ruoxijia.info/)
+- [James Zou](https://www.james-zou.com/)
+- [Amirata Ghorbani](https://www.amiratag.com/)
 
 ## Awesome Resources
-- (Under Construction)
+- [ICML Workshop on ECOnomics of Privacy and Data Labor-2020](https://vasiloglou.github.io/EcoPaDL/)
+- [Data Co-op Workshop](https://csrcl.huji.ac.il/event/data-co-op-workshop)
+- 
 
 ## Courses
 - (Under Construction)
