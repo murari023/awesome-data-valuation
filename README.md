@@ -22,7 +22,7 @@ A curated list of data valuation papers and related resources (Under Constructio
 - (Under Construction)
 
 ## Awesome Researchers
-- (Under Construction)
+- [Jinfei Liu](http://www.mathcs.emory.edu/~jliu253/)
 
 ## Awesome Resources
 - (Under Construction)
