@@ -6,6 +6,7 @@ A curated list of data valuation papers and related resources (Under Constructio
  - [Datasets](https://github.com/murari023/awesome-background-subtraction#datasets)
  - [Awesome Researchers](https://github.com/murari023/awesome-background-subtraction#awesome-researchers)
  - [Awesome Resources](https://github.com/murari023/awesome-background-subtraction#awesome-resources)
+ - [Awesome Companies](https://github.com/murari023/awesome-background-subtraction#awesome-resources)
  - [Courses](https://github.com/murari023/awesome-background-subtraction/blob/master/README.md#projects)
 
 ## 2020 Papers
@@ -17,7 +18,7 @@ A curated list of data valuation papers and related resources (Under Constructio
 - [Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms](https://arxiv.org/abs/1908.08619), [**Source Code**](https://github.com/murari023/KNN-PVLDB)
 - [Towards Efficient Data Valuation Based on the Shapley Value](https://arxiv.org/abs/1902.10275)
 
-## 2010-2015
+## 2010-2016
 - [A Theory of Pricing Private Data](https://arxiv.org/abs/1208.5258)
 
 ## Review/survey Papers
@@ -35,7 +36,9 @@ A curated list of data valuation papers and related resources (Under Constructio
 ## Awesome Resources
 - [ICML Workshop on ECOnomics of Privacy and Data Labor-2020](https://vasiloglou.github.io/EcoPaDL/)
 - [Data Co-op Workshop](https://csrcl.huji.ac.il/event/data-co-op-workshop)
-- 
+
+## Awesome Companies
+- [Ocean](oceanprotocol.com)
 
 ## Courses
 - [Valuation of data and AI](https://canvas.stanford.edu/courses/114221)
