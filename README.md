@@ -2,7 +2,6 @@
 A curated list of data valuation papers and related resources (Under Construction)
 
 ## Contents
- - [Theoretical based Papers](https://github.com/murari023/awesome-background-subtraction#non-deep-learning-based-papers)
  - [Review/survey papers](https://github.com/murari023/awesome-background-subtraction#reviewsurvey-papers)
  - [Datasets](https://github.com/murari023/awesome-background-subtraction#datasets)
  - [Awesome Researchers](https://github.com/murari023/awesome-background-subtraction#awesome-researchers)
@@ -10,10 +9,12 @@ A curated list of data valuation papers and related resources (Under Constructio
  - [Courses](https://github.com/murari023/awesome-background-subtraction/blob/master/README.md#projects)
 
 ## 2020 Papers
- - [2020 - MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos](https://arxiv.org/abs/2008.01699) (**ACM-MM 2020**)
+- [A Distributional Framework for Data Valuation](https://arxiv.org/abs/2002.12334)
 
 ## 2019 Papers
-
+- [Data Shapley Equitable Valuation of Data for Machine Learning](http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf)[code](https://github.com/amiratag/DataShapley)
+- [Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms](https://arxiv.org/abs/1908.08619)
+- [Towards Efficient Data Valuation Based on the Shapley Value](https://arxiv.org/abs/1902.10275)
 
 ## Review/survey Papers
 - (Under Construction)
@@ -33,7 +34,7 @@ A curated list of data valuation papers and related resources (Under Constructio
 - 
 
 ## Courses
-- (Under Construction)
+- [Valuation of data and AI](https://canvas.stanford.edu/courses/114221)
 
 ## Contributions are always welcomed!
 If you have any suggestions (missing papers, projects, source code, new papers, key researchers, dataset, etc.), please feel free to edit and pull a request. (or just let me know the title of paper)
