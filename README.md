@@ -13,7 +13,7 @@ A curated list of data valuation papers and related resources (Under Constructio
 
 ## 2019 Papers
 - [Data Shapley Equitable Valuation of Data for Machine Learning](http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf), [**Source Code**](https://github.com/amiratag/DataShapley)
-- [Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms](https://arxiv.org/abs/1908.08619)
+- [Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms](https://arxiv.org/abs/1908.08619), [**Source Code**](https://github.com/murari023/KNN-PVLDB)
 - [Towards Efficient Data Valuation Based on the Shapley Value](https://arxiv.org/abs/1902.10275)
 
 ## Review/survey Papers
