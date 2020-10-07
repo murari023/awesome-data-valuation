@@ -6,8 +6,8 @@ A curated list of data valuation papers and related resources (Under Constructio
  - [Datasets](https://github.com/murari023/awesome-data-valuation#datasets)
  - [Awesome Researchers](https://github.com/murari023/awesome-data-valuation#awesome-researchers)
  - [Awesome Resources](https://github.com/murari023/awesome-data-valuation#awesome-resources)
- - [Awesome Companies](https://github.com/murari023/awesome-data-valuation#awesome-resources)
- - [Courses](https://github.com/murari023/awesome-data-valuation#projects)
+ - [Awesome Companies](https://github.com/murari023/awesome-data-valuation#awesome-companies)
+ - [Courses](https://github.com/murari023/awesome-data-valuation#courses)
 
 ## 2020 Papers
 - [A Distributional Framework for Data Valuation](https://arxiv.org/abs/2002.12334)
