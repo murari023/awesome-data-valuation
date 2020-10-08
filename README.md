@@ -21,6 +21,9 @@ A curated list of data valuation papers and related resources (Under Constructio
 - [Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms](https://arxiv.org/abs/1908.08619), [**Source Code**](https://github.com/murari023/KNN-PVLDB)
 - [Towards Efficient Data Valuation Based on the Shapley Value](https://arxiv.org/abs/1902.10275)
 
+## 2018 Papers
+- [Model-based Pricing for Machine Learning in a Data Marketplace](https://128.84.21.199/pdf/1805.11450.pdf)
+
 ## 2010-2016
 - [A Pricing Model for Big Personal Data](https://ieeexplore.ieee.org/abstract/document/7590317/)
 - [A Theory of Pricing Private Data](https://arxiv.org/abs/1208.5258)
