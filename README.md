@@ -25,6 +25,7 @@ A curated list of data valuation papers and related resources (Under Constructio
 - [A Pricing Model for Big Personal Data](https://ieeexplore.ieee.org/abstract/document/7590317/)
 - [A Theory of Pricing Private Data](https://arxiv.org/abs/1208.5258)
 - [Pricing Private Data](https://www.researchgate.net/profile/Bernardo_Huberman/publication/256034198_Pricing_Private_Data/links/5cbe8c14a6fdcc1d49a86fcd/Pricing-Private-Data.pdf)
+- [A Pricing Model for Data Markets](https://www.ideals.illinois.edu/bitstream/handle/2142/73449/207_ready.pdf?sequence=2)
 
 ## Review/survey Papers
 - (Under Construction)
