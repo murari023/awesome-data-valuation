@@ -34,6 +34,7 @@ A curated list of data valuation papers and related resources (Under Constructio
 
 ## Awesome Researchers
 - [Jinfei Liu](http://www.mathcs.emory.edu/~jliu253/)
+- [RAUL CASTRO FERNANDEZ](https://raulcastrofernandez.com/)
 - [Ruoxi Jia](https://ruoxijia.info/)
 - [James Zou](https://www.james-zou.com/)
 - [Amirata Ghorbani](https://www.amiratag.com/)
