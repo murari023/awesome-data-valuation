@@ -31,7 +31,7 @@ A curated list of data valuation papers and related resources (Under Constructio
 - [A Pricing Model for Data Markets](https://www.ideals.illinois.edu/bitstream/handle/2142/73449/207_ready.pdf?sequence=2)
 
 ## Review/survey Papers
-- (Under Construction)
+- [A Survey on Data Pricing from Economics to Data Science](https://arxiv.org/abs/2009.04462)
 
 ## Datasets
 - (Under Construction)
