@@ -10,6 +10,9 @@ A curated list of data valuation papers and related resources (Under Constructio
  - [Courses](https://github.com/murari023/awesome-data-valuation#courses)
 
 ## 2020 Papers
+- [Data Market Platforms Trading Data Assets to Solve Data Problems](https://arxiv.org/abs/2002.01047)
+- [Dealer: End-to-End Data Marketplace with Model-based pricing](https://arxiv.org/abs/2003.13103)
+- [A Survey on Data Pricing from Economics to Data Science](https://arxiv.org/abs/2009.04462)
 - [A Distributional Framework for Data Valuation](https://arxiv.org/abs/2002.12334)
 - [Absolute Shapley Value](https://arxiv.org/abs/2003.10076)
 
@@ -19,7 +22,9 @@ A curated list of data valuation papers and related resources (Under Constructio
 - [Towards Efficient Data Valuation Based on the Shapley Value](https://arxiv.org/abs/1902.10275)
 
 ## 2010-2016
+- [A Pricing Model for Big Personal Data](https://ieeexplore.ieee.org/abstract/document/7590317/)
 - [A Theory of Pricing Private Data](https://arxiv.org/abs/1208.5258)
+- [Pricing Private Data](https://www.researchgate.net/profile/Bernardo_Huberman/publication/256034198_Pricing_Private_Data/links/5cbe8c14a6fdcc1d49a86fcd/Pricing-Private-Data.pdf)
 
 ## Review/survey Papers
 - (Under Construction)
