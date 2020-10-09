@@ -1,5 +1,5 @@
 # awesome-data-valuation
-A curated list of data valuation papers and related resources (Under Construction)
+A curated list of data valuation papers and related resources
 
 ## Contents
  - [Review/survey papers](https://github.com/murari023/awesome-data-valuation#reviewsurvey-papers)
