@@ -17,6 +17,7 @@ A curated list of data valuation papers and related resources
 - [Absolute Shapley Value](https://arxiv.org/abs/2003.10076)
 
 ## 2019 Papers
+- [Towards Mo del-base d Pricing for Machine Learning in a Data Marketplace](https://dl.acm.org/citation.cfm?id=3300078)
 - [Data Shapley Equitable Valuation of Data for Machine Learning](http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf), [**Source Code**](https://github.com/amiratag/DataShapley)
 - [Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms](https://arxiv.org/abs/1908.08619), [**Source Code**](https://github.com/murari023/KNN-PVLDB)
 - [Towards Efficient Data Valuation Based on the Shapley Value](https://arxiv.org/abs/1902.10275)
