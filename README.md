@@ -45,6 +45,7 @@ A curated list of data valuation papers and related resources
 - [James Zou](https://www.james-zou.com/)
 - [Amirata Ghorbani](https://www.amiratag.com/)
 - [Marc van Lieshout](https://scholar.google.co.in/citations?hl=en&user=UMw4d0sAAAAJ)
+- [Vasilis Gkatzelis](https://scholar.google.co.in/citations?hl=en&user=0VBRRRoAAAAJ)
 
 ## Awesome Resources
 - [ICML Workshop on ECOnomics of Privacy and Data Labor-2020](https://vasiloglou.github.io/EcoPaDL/)
